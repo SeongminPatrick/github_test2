@@ -1,0 +1,45 @@
+[33mcommit f5605063f9ba627dde5f8aaaec49a3dabdc212bb[m[33m ([m[1;32mtest_branch[m[33m)[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:14:58 2020 +0900
+
+    Revert "Revert "branch first commmit""
+    
+    This reverts commit ee3dd3bf9dd8cd3d517b886a6fba24ff45bdb7cd.
+
+[33mcommit ee3dd3bf9dd8cd3d517b886a6fba24ff45bdb7cd[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:14:52 2020 +0900
+
+    Revert "branch first commmit"
+    
+    This reverts commit 3a67d56de0462d2c218ed9d48e82025ee28210a3.
+
+[33mcommit 3a67d56de0462d2c218ed9d48e82025ee28210a3[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:05:04 2020 +0900
+
+    branch first commmit
+
+[33mcommit a513674de165e17e20dc8fd08e6d2a035d16747e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:06:50 2020 +0900
+
+    master branch tel
+
+[33mcommit d456a14e51ef8af4de008d1b3fd1541089d1fbfa[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 16:58:27 2020 +0900
+
+    this is a new file
+
+[33mcommit ce8fc2db7fdcad6b613a6da06cb384534a7d362b[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Wed Mar 11 16:13:20 2020 +0900
+
+    update readme.md
+
+[33mcommit c5d95aea5e68704b45d87486ec37cb749955227a[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Wed Mar 11 16:03:42 2020 +0900
+
+    add readme.md

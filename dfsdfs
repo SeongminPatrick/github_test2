@@ -1,0 +1,72 @@
+[33mcommit b7ce97d577df993c62bea321c1ab8cef7864550c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Fri Mar 13 10:10:52 2020 +0900
+
+    python file uploaded
+
+[33mcommit a9968528b52cbe52b1bb3585873cefc23bda1b1b[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:32:00 2020 +0900
+
+    Revert "master branch tel"
+    
+    This reverts commit a513674de165e17e20dc8fd08e6d2a035d16747e.
+
+[33mcommit 68c91ab580ae40cdfdb48133b92db0956a02f24f[m
+Merge: 0d9e425 f560506
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:30:33 2020 +0900
+
+    Merge branch 'test_branch'
+
+[33mcommit 0d9e425ecd2b911eaa1fe430d0b7f2fc9997f4b1[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:30:20 2020 +0900
+
+    asdasd
+
+[33mcommit f5605063f9ba627dde5f8aaaec49a3dabdc212bb[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:14:58 2020 +0900
+
+    Revert "Revert "branch first commmit""
+    
+    This reverts commit ee3dd3bf9dd8cd3d517b886a6fba24ff45bdb7cd.
+
+[33mcommit ee3dd3bf9dd8cd3d517b886a6fba24ff45bdb7cd[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:14:52 2020 +0900
+
+    Revert "branch first commmit"
+    
+    This reverts commit 3a67d56de0462d2c218ed9d48e82025ee28210a3.
+
+[33mcommit 3a67d56de0462d2c218ed9d48e82025ee28210a3[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:05:04 2020 +0900
+
+    branch first commmit
+
+[33mcommit a513674de165e17e20dc8fd08e6d2a035d16747e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 17:06:50 2020 +0900
+
+    master branch tel
+
+[33mcommit d456a14e51ef8af4de008d1b3fd1541089d1fbfa[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Thu Mar 12 16:58:27 2020 +0900
+
+    this is a new file
+
+[33mcommit ce8fc2db7fdcad6b613a6da06cb384534a7d362b[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Wed Mar 11 16:13:20 2020 +0900
+
+    update readme.md
+
+[33mcommit c5d95aea5e68704b45d87486ec37cb749955227a[m
+Author: seongminlee0208 <seongmin.lee0208@hotmail.com>
+Date:   Wed Mar 11 16:03:42 2020 +0900
+
+    add readme.md
